@@ -46,7 +46,7 @@ class ItemsActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelect
         }
 
         // Set User Img, Name and Email
-        navViewHeader.findViewById<ImageView>(R.id.nav_user_img).setImageResource(R.drawable.am_logo)
+        navViewHeader.findViewById<ImageView>(R.id.nav_user_img).setImageResource(R.drawable.am_logo_400)
         navViewHeader.findViewById<TextView>(R.id.nav_user_name).text = "Novo Ime Korisnika"
         navViewHeader.findViewById<TextView>(R.id.nav_user_email).text = "novi_email@email.com"
 

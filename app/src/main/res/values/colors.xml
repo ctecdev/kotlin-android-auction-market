@@ -1,8 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#5a7e8c</color>
-    <color name="colorPrimaryDark">#5a7e8c</color>
-    <color name="colorAccent">#CCD7DC</color>
+    <color name="colorPrimary">#6e2127</color>
+    <color name="colorPrimaryDark">#296c9b</color>
+    <color name="colorAccent">#aabdd9</color>
 
-    <color name="colorSplashBackround">#CCD7DC</color>
+    <color name="colorSplashBackround">#296c9b</color>
+
+
+    <!-- Color pallete:
+    http://www.color-hex.com/color-palette/44858
+    ISO outdoor marketplace triadic color palette Color Palette
+
+    #296c9b	(41,108,155)
+    #aabdd9	(170,189,217)
+    #e9d49c	(233,212,156)
+    #a6892f	(166,137,47)
+    #6e2127 (110,33,39)
+    -->
+    <color name="color1">#296c9b</color>
+    <color name="color2">#aabdd9</color>
+    <color name="color3">#e9d49c</color>
+    <color name="color4">#a6892f</color>
+    <color name="color5">#6e2127</color>
 </resources>
