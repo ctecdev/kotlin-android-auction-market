@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\src\main\AndroidManifest.xml:2:1-51:12
-INJECTED from E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\src\main\AndroidManifest.xml:2:1-51:12
-INJECTED from E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\src\main\AndroidManifest.xml:2:1-51:12
-INJECTED from E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\src\main\AndroidManifest.xml:2:1-51:12
+ADDED from E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\src\main\AndroidManifest.xml:2:1-48:12
 MERGED from [com.android.support:design:26.1.0] C:\Users\Srdjan\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\f8b88e219726ee6e975a90a6497e4761\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Srdjan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\58f26ba8ccfc8f99ad6f6f26bb199ac9\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Srdjan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\82cb355f9e520589d582ca8c8387a5fd\AndroidManifest.xml:2:1-11:12
@@ -18,20 +18,20 @@ MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Srdjan\.gra
 MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Srdjan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\df4651efbb03c63e7bc0f279e2aeb11d\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Srdjan\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\b8151cf6f36fbddd74628a9509eb6d9f\AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Srdjan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\51a9519a202cf8b38c1b294dff75966d\AndroidManifest.xml:17:1-30:12
-INJECTED from E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\src\main\AndroidManifest.xml:2:1-51:12
-INJECTED from E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\src\main\AndroidManifest.xml:2:1-51:12
-INJECTED from E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\src\main\AndroidManifest.xml:2:1-48:12
 	package
 		ADDED from E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\src\main\AndroidManifest.xml:3:5-54
 		INJECTED from E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\src\main\AndroidManifest.xml
 		INJECTED from E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\src\main\AndroidManifest.xml
-		ADDED from E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\src\main\AndroidManifest.xml:2:1-51:12
+		ADDED from E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\src\main\AndroidManifest.xml:2:1-48:12
 		INJECTED from E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\src\main\AndroidManifest.xml
-		ADDED from E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\src\main\AndroidManifest.xml:2:1-51:12
+		ADDED from E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\src\main\AndroidManifest.xml:2:1-48:12
 		INJECTED from E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\src\main\AndroidManifest.xml:2:11-69
@@ -48,7 +48,7 @@ ADDED from E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-
 	android:name
 		ADDED from E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\src\main\AndroidManifest.xml:8:22-69
 application
-ADDED from E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\src\main\AndroidManifest.xml:10:5-49:19
+ADDED from E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\src\main\AndroidManifest.xml:10:5-46:19
 MERGED from [com.android.support:design:26.1.0] C:\Users\Srdjan\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\f8b88e219726ee6e975a90a6497e4761\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:design:26.1.0] C:\Users\Srdjan\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\f8b88e219726ee6e975a90a6497e4761\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Srdjan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\58f26ba8ccfc8f99ad6f6f26bb199ac9\AndroidManifest.xml:25:5-29:19

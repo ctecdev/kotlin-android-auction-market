@@ -1,72 +1,87 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="x86"
+    abi="armeabi-v7a,armeabi"
     api-level="24"
-    build-mode="FULL"
-    density="560dpi"
+    build-mode="HOT_WARM"
+    density="xhdpi"
     format="10"
     plugin-version="3.0.1"
-    timestamp="1519911160676"
+    timestamp="1520097907309"
     token="-1742370810875735283"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="6394" />
-    <task
-        name="instant-run-dex"
         duration="0" />
     <task
+        name="instant-run-dex"
+        duration="17" />
+    <task
         name="instant-run-transform"
-        duration="456" />
+        duration="382" />
     <task
         name="verifier"
-        duration="175" />
+        duration="12" />
 
     <artifact
-        location="E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-        type="SPLIT" />
-    <artifact
-        location="E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-        type="SPLIT" />
-    <artifact
-        location="E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
-        type="SPLIT" />
-    <artifact
-        location="E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
-        type="SPLIT" />
-    <artifact
-        location="E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
-        type="SPLIT" />
-    <artifact
-        location="E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\build\outputs\apk\debug\app-debug.apk"
-        type="SPLIT_MAIN" />
-    <artifact
-        location="E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
-        type="SPLIT" />
-    <artifact
-        location="E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
-        type="SPLIT" />
-    <artifact
-        location="E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
-        type="SPLIT" />
-    <artifact
-        location="E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
-        type="SPLIT" />
-    <artifact
-        location="E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
-        type="SPLIT" />
-    <artifact
-        location="E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
-        type="SPLIT" />
+        location="E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
 
     <build
         build-mode="FULL"
-        timestamp="1519911160676"
+        timestamp="1520094915538"
         verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            type="SPLIT" />
         <artifact
             location="E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
+        <artifact
+            location="E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\build\outputs\apk\debug\app-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="R_CLASS_CHANGE"
+        timestamp="1520095918327"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="R_CLASS_CHANGE"
+        timestamp="1520097126191"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
@@ -79,27 +94,40 @@
         <artifact
             location="E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
             type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="COMPATIBLE"
+        timestamp="1520097612702"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\build\outputs\apk\debug\app-debug.apk"
             type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="COMPATIBLE"
+        timestamp="1520097860300"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            location="E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
+    </build>
+    <build
+        build-mode="HOT_WARM"
+        timestamp="1520097894975"
+        verifier="COMPATIBLE" >
         <artifact
-            location="E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
-            type="SPLIT" />
+            location="E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\build\intermediates\builds\debug\1520097894975\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        build-mode="HOT_WARM"
+        timestamp="1520097907309"
+        verifier="COMPATIBLE" >
         <artifact
-            location="E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
-            type="SPLIT" />
-        <artifact
-            location="E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
-            type="SPLIT" />
-        <artifact
-            location="E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
-            type="SPLIT" />
-        <artifact
-            location="E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
-            type="SPLIT" />
+            location="E:\Coding\WorkSpace\Git-Repos\ftn-sit-s4-pmsu\kotlin-android-auction-market\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
     </build>
 
 </instant-run>
