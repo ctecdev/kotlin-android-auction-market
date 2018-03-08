@@ -2,10 +2,13 @@
 <resources>
     <color name="colorPrimary">#6e2127</color>
     <color name="colorPrimaryDark">#296c9b</color>
-    <color name="colorAccent">#e9d49c</color>
+    <color name="colorAccent">#296c9b</color>
+    <color name="colorBackground">#e9d49c</color>
 
-    <color name="colorSplashBackground">#296c9b</color>
-    <color name="navigationViewBackground">#aabdd9</color>
+    <color name="colorSplashBackground">#6e2127</color>
+    <color name="colorNavigationViewBackground">#e9d49c</color>
+
+    <color name="colorButtonOK">#276e21</color>
 
     <!-- Color pallete:
     http://www.color-hex.com/color-palette/44858
@@ -22,4 +25,6 @@
     <color name="color3">#e9d49c</color>
     <color name="color4">#a6892f</color>
     <color name="color5">#6e2127</color>
+
+    <color name="color6">#276e21</color>
 </resources>

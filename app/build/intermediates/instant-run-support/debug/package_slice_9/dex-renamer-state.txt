@@ -1,4 +1,4 @@
-#Sat Mar 03 17:52:17 CET 2018
-base.0=E\:\\Coding\\WorkSpace\\Git-Repos\\ftn-sit-s4-pmsu\\kotlin-android-auction-market\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\162
+#Thu Mar 08 21:00:37 CET 2018
+base.0=E\:\\Coding\\WorkSpace\\Git-Repos\\ftn-sit-s4-pmsu\\kotlin-android-auction-market\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\200
 path.0=classes.dex
 renamed.0=classes.dex
